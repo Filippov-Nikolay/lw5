@@ -7,6 +7,7 @@ body, p {
     background-image: url(https://ecooboi.com.ua/files/cache/5c/5f/40/ecooboi-fon-iz-zelenyh-listjev-1585651393.jpg);
     /* background-image: url(https://static-cse.canva.com/blob/759807/vk1776.png); */
     background-attachment: fixed;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 .container {
     margin: 0 auto;
